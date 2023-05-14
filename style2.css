@@ -1,0 +1,18 @@
+#one{
+    background-color:rgb(241, 196, 196);
+}
+U{
+    color: RED;
+}
+margin-top: 0%;
+    margin-bottom: 20.5%;
+
+
+    @media screen and (max-width:1028px){
+
+        #right{
+            margin-bottom:268%;
+            
+            background-color: yellow;
+        }
+    }
